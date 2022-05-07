@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div className="navbar0">
+    <div className="navbar-wrapper">
         <div className="navbar">
             <div className="navbar-left">
                 <h4>Hi! <a href="#">Sign in</a> or <a href="#">register</a></h4>

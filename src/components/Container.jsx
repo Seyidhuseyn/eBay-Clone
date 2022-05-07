@@ -1,4 +1,5 @@
 import React from 'react'
+
 import Apple from '../components/img/apple.jpg'
 import Samsung from '../components/img/samsung.jpg'
 import Sony from '../components/img/sony.jpg'
@@ -23,6 +24,7 @@ import Washing from '../components/img/washing.jpg'
 import Ssd from '../components/img/ssd.jpg'
 import Phone_1 from '../components/img/phone-1.jpg'
 import Phone_2 from '../components/img/phone-2.jpg'
+
 const Container = () => {
   return (
     <div className="container-wrapper">

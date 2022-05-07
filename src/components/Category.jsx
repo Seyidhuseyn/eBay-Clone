@@ -1,4 +1,5 @@
 import React from 'react'
+
 import Home from '../components/img/ct-home.jpg'
 import Electronics from '../components/img/electronics.jpeg'
 import Fashion from '../components/img/fashion.jpeg'
@@ -8,6 +9,7 @@ import Motors from '../components/img/motors.jpeg'
 import Sports from '../components/img/sports.jpeg'
 import Industrial from '../components/img/industrial.jpeg'
 import Sell from '../components/img/sell.jpeg'
+
 const Category = () => {
   return (
     <div className='category-wrapper'>

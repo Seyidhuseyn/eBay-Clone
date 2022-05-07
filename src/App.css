@@ -14,7 +14,7 @@
 html {
     scroll-behavior: smooth;
 }
-.navbar0 {
+.navbar-wrapper {
     display: flex;
     justify-content: center;
 }
